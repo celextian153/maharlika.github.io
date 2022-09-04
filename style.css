@@ -1,5 +1,6 @@
 @import url('http://fonts.cdnfonts.com/css/bizmo-trial');
 @import url('http://fonts.cdnfonts.com/css/small-print');
+@import url('http://fonts.cdnfonts.com/css/sudo-var');
 
 .nav-link{
     font-family: Monospace;
@@ -15,11 +16,15 @@
     object-fit: cover;
 }
 #mahBanner{
-    font-size: 19vh; 
+    font-size: 8vw; 
     
     font-family: 'Bizmo Trial', sans-serif;
     color: white;
     text-shadow: 5px 4px #F2F213;
+}
+#introStory{
+    font-family: 'Sudo Var', sans-serif;
+    font-size: 30px;
 }
 .carousel .carousel-item {
     height: 600px;
