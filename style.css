@@ -3,17 +3,17 @@
 @import url('http://fonts.cdnfonts.com/css/sudo-var'); */
 
 @font-face {
-    font-family: Bizmo Trial;
+    font-family: "Bizmo Trial";
     font-weight: bold;
     src: url("../fonts/Bizmo\ Trial-Bold.ttf") format('truetype');
 }
 @font-face {
-    font-family: Small Print;
+    font-family: "Small Print";
     font-weight: bold;
     src: url("../fonts/SmallPrint-PKYXr.otf") format("opentype");
 }
 @font-face {
-    font-family: Sudo Var;
+    font-family: "Sudo Var";
     font-weight: bold;
     src: url("../fonts/SudoVariable.ttf") format('truetype');
 }
